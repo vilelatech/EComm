@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4bQoyEjj5jA2Q2iLzfFskeLxC707T69NKZzLqRQGWpQLOtIdRcSNXMCq74wXp1cNIYjE4OoOHdN/dDB6DMqLrQ==",
+  "dgSpecHash": "cArpgaC7hF9nKCltTyWs3MhS00GMR2xjrIQ7tV1zGsVIOdbWWxDQXU6SacQibNc1VSljU2w9C3kLnqnRz1p6Rw==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\Personal\\ECommerce\\ECommerce\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Projetos\\Personal\\EComm\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

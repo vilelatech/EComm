@@ -10,3 +10,15 @@ E:\Projetos\Personal\ECommerce\ECommerce\Domain\obj\Debug\net8.0\Domain.dll
 E:\Projetos\Personal\ECommerce\ECommerce\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\Projetos\Personal\ECommerce\ECommerce\Domain\obj\Debug\net8.0\Domain.pdb
 E:\Projetos\Personal\ECommerce\ECommerce\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Projetos\Personal\EComm\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Projetos\Personal\EComm\Domain\bin\Debug\net8.0\Domain.dll
+E:\Projetos\Personal\EComm\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.dll
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Projetos\Personal\EComm\Domain\obj\Debug\net8.0\ref\Domain.dll

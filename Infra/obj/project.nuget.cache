@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X466LqHW8dqEJNLAq7ua6Di+Yv265T1ty/SOn0T+2i5hXZEtEmoe63tMgVVkmqq450WFyAM7Gr8Brmf4nz228w==",
+  "dgSpecHash": "Bwi8dE5pCnIaAc/P7B+B52Ea0rXQcmoBZhmPI/Q0fhHnnM0ZvqOg0Zv2Rfv9jB6gDsPOL8gz/UITcu4/+Q5YvQ==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\Personal\\ECommerce\\ECommerce\\Infra\\Infra.csproj",
+  "projectFilePath": "E:\\Projetos\\Personal\\EComm\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
